@@ -1,0 +1,1 @@
+Compile the staged SignalWorks source using Java 25.
